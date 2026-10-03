@@ -1,6 +1,6 @@
 {
   "database_name": "Bank of Biology NEET Biology Question Database",
-  "version": "5.0",
+  "version": "5.1",
   "total_questions": 2530,
   "chapter_order": [
     "The Living World",
@@ -565,8 +565,8 @@
       "chapter": "The Living World",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature?\n(NEET-I 2016)",
-      "question_html": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature? \t\t\t\t\t\t\t <b><i><span style=\"color: #902165;\">(NEET-I 2016)</span></i></b>",
+      "question": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature?",
+      "question_html": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature? \t\t\t\t\t\t\t <b><i><span style=\"color: #902165;\"></span></i></b>",
       "options": {
         "A": "The names are written in Latin and are italicized.",
         "B": "When written by hand the names are to be underlined.",
@@ -578,7 +578,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0025",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "The Living World - NEET Topic-wise Q & A | PDF",
@@ -775,8 +775,8 @@
       "chapter": "The Living World",
       "class": "Class 11",
       "type": "Match-the-Columns",
-      "question": "Match column I with column II for housefly classification and select the correct option using the codes given below.\n(NEET-II 2016)\nColumn I\nColumn II",
-      "question_html": "Match column I with column II for housefly classification and select the correct option using the codes given below. <b><i><span style=\"color: #902165;\">(NEET-II 2016)</span></i></b>\n<blockquote>     <b>Column I </b>\t      \t<b>Column II</b> </blockquote>\n\n\n\n\n<br/>",
+      "question": "Match column I with column II for housefly classification and select the correct option using the codes given below.Column I\nColumn II",
+      "question_html": "Match column I with column II for housefly classification and select the correct option using the codes given below. <b><i><span style=\"color: #902165;\"></span></i></b>\n<blockquote>     <b>Column I </b>\t      \t<b>Column II</b> </blockquote>\n\n\n\n\n<br/>",
       "options": {
         "A": "A‐(iii), B‐(i), C‐(iv), D‐(ii)",
         "B": "A‐(iii), B‐(ii), C‐(iv), D‐(i)",
@@ -788,7 +788,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0035",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "The Living World - NEET Topic-wise Q & A | PDF",
@@ -1512,8 +1512,8 @@
       "chapter": "Biological Classification",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Methanogens belong to\n(NEET-II 2016)",
-      "question_html": "Methanogens belong to\t<b><i><span style=\"color: #902165;\">(NEET-II 2016)</span></i></b>",
+      "question": "Methanogens belong to",
+      "question_html": "Methanogens belong to\t<b><i><span style=\"color: #902165;\"></span></i></b>",
       "options": {
         "A": "eubacteria",
         "B": "archaebacteria",
@@ -1525,7 +1525,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0070",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Biological classification - NEET Topic-wise Q & A | PDF",
@@ -6157,8 +6157,8 @@
       "chapter": "Animal Kingdom",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Choose the correct statement.\n(NEET-II 2016)",
-      "question_html": "Choose the correct statement. \t<b><i><span style=\"color: #902165;\">(NEET-II 2016)</span></i></b>",
+      "question": "Choose the correct statement.",
+      "question_html": "Choose the correct statement. \t<b><i><span style=\"color: #902165;\"></span></i></b>",
       "options": {
         "A": "All mammals are viviparous.",
         "B": "All cyclostomes do not possess jaws and paired fins.",
@@ -6170,7 +6170,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0289",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Animal Kingdom - NEET Topic-wise Q & A | PDF",
@@ -12583,8 +12583,8 @@
       "chapter": "Structural Organisation in Animals",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "In male cockroaches, sperms are stored in which part of the reproductive system?\n(NEET-II 2016)",
-      "question_html": "In male cockroaches, sperms are stored in which part of the reproductive system? \t      <b><i><span style=\"color: #902165;\">(NEET-II 2016)</span></i></b>",
+      "question": "In male cockroaches, sperms are stored in which part of the reproductive system?",
+      "question_html": "In male cockroaches, sperms are stored in which part of the reproductive system? \t      <b><i><span style=\"color: #902165;\"></span></i></b>",
       "options": {
         "A": "Seminal vesicles",
         "B": "Mushroom glands",
@@ -12596,7 +12596,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0591",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Structural organisation in animals | NEET Topic-wise Q & A | PDF",
@@ -13469,8 +13469,8 @@
       "chapter": "Cell: The Unit of Life",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Select the wrong statement.\n(NEET-II 2016)",
-      "question_html": "Select the wrong statement. <i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>",
+      "question": "Select the wrong statement.",
+      "question_html": "Select the wrong statement. <i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Bacterial cell wall is made up of peptidoglycan.",
         "B": "Pili and fimbriae are mainly involved in motility of bacterial cells.",
@@ -13482,7 +13482,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0633",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Cell - The unit of life - NEET Topic-wise Q & A | PDF",
@@ -14149,8 +14149,8 @@
       "chapter": "Cell: The Unit of Life",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Which one of the following cell organelles is enclosed by a single membrane?\n(NEET-I 2016)",
-      "question_html": "Which one of the following cell organelles is enclosed by a single membrane? \t\t<i><span style=\"color: #902165;\">(NEET-I 2016)</span></i>",
+      "question": "Which one of the following cell organelles is enclosed by a single membrane?",
+      "question_html": "Which one of the following cell organelles is enclosed by a single membrane? \t\t<i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Lysosomes",
         "B": "Nuclei",
@@ -14162,7 +14162,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0665",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Cell - The unit of life - NEET Topic-wise Q & A | PDF",
@@ -14170,8 +14170,8 @@
       "chapter": "Cell: The Unit of Life",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Water soluble pigments found in plant cell vacuoles are\n(NEET-I 2016)",
-      "question_html": "Water soluble pigments found in plant cell vacuoles are <i><span style=\"color: #902165;\">(NEET-I 2016)</span></i>",
+      "question": "Water soluble pigments found in plant cell vacuoles are",
+      "question_html": "Water soluble pigments found in plant cell vacuoles are <i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "carotenoids",
         "B": "anthocyanins",
@@ -14183,7 +14183,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0666",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Cell - The unit of life - NEET Topic-wise Q & A | PDF",
@@ -16292,8 +16292,8 @@
       "chapter": "Biomolecules",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "A non-proteinaceous enzyme is\n(NEET-II 2016)",
-      "question_html": "A non-proteinaceous enzyme is \t<i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>",
+      "question": "A non-proteinaceous enzyme is",
+      "question_html": "A non-proteinaceous enzyme is \t<i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "lysozyme",
         "B": "ribozyme",
@@ -16305,7 +16305,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0766",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Biomolecules - NEET Topic-wise Q & A | PDF",
@@ -16313,8 +16313,8 @@
       "chapter": "Biomolecules",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Which of the following describes the given graph correctly?\n(NEET-II 2016)",
-      "question_html": "Which of the following describes the given graph correctly? \t<i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>\n<div style=\"display: block; padding: 0.5em 0; text-align: center; \"><img alt=\"\" border=\"0\" data-original-height=\"540\" data-original-width=\"798\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEdNRlt6-LNlFbjjBDEj3VB84s5NBQKZX6oOxL-1FzGEZUOmfR5a6RNiL8Jg202WMaHINjBE4BovqYd7RVUD8tHhVjSsMDXA_ltct6t47Ldcx_hm59EoUY9ub8bsoVnVKe2-I8_DKSC_XTBsrK9mqpW42vWQoMV-90WifgTRJj50Av7tOaiga0jzAcbXE/s320/Untitled-1.png\" width=\"320\"/></div>",
+      "question": "Which of the following describes the given graph correctly?",
+      "question_html": "Which of the following describes the given graph correctly? \t<i><span style=\"color: #902165;\"></span></i>\n<div style=\"display: block; padding: 0.5em 0; text-align: center; \"><img alt=\"\" border=\"0\" data-original-height=\"540\" data-original-width=\"798\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEdNRlt6-LNlFbjjBDEj3VB84s5NBQKZX6oOxL-1FzGEZUOmfR5a6RNiL8Jg202WMaHINjBE4BovqYd7RVUD8tHhVjSsMDXA_ltct6t47Ldcx_hm59EoUY9ub8bsoVnVKe2-I8_DKSC_XTBsrK9mqpW42vWQoMV-90WifgTRJj50Av7tOaiga0jzAcbXE/s320/Untitled-1.png\" width=\"320\"/></div>",
       "options": {
         "A": "Endothermic reaction with energy A in presence of enzyme and B in absence of enzyme.",
         "B": "Exothermic reaction with energy A in presence of enzyme and B in absence of enzyme.",
@@ -16328,7 +16328,7 @@
       ],
       "source_url": "",
       "id": "NEET-0767",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Biomolecules - NEET Topic-wise Q & A | PDF",
@@ -17098,8 +17098,8 @@
       "chapter": "Cell Cycle and Cell Division",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Spindle fibres attach on to\n(NEET-I 2016)",
-      "question_html": "Spindle fibres attach on to <i><span style=\"color: #902165;\">(NEET-I 2016)</span></i>",
+      "question": "Spindle fibres attach on to",
+      "question_html": "Spindle fibres attach on to <i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "centromere of the chromosome",
         "B": "kinetosome of the chromosome",
@@ -17111,7 +17111,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0804",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Cell Cycle and cell division - NEET Topic-wise Q & A | PDF",
@@ -17119,8 +17119,8 @@
       "chapter": "Cell Cycle and Cell Division",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Which of the following is not a characteristic feature during mitosis in somatic cells?\n(NEET-I 2016)",
-      "question_html": "Which of the following is not a characteristic feature during mitosis in somatic cells? <i><span style=\"color: #902165;\">(NEET-I 2016)</span></i>",
+      "question": "Which of the following is not a characteristic feature during mitosis in somatic cells?",
+      "question_html": "Which of the following is not a characteristic feature during mitosis in somatic cells? <i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Chromosome movement",
         "B": "Synapsis",
@@ -17132,7 +17132,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0805",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Cell Cycle and cell division - NEET Topic-wise Q & A | PDF",
@@ -17652,8 +17652,8 @@
       "chapter": "Cell Cycle and Cell Division",
       "class": "Class 11",
       "type": "Match-the-Columns",
-      "question": "Match the stages of meiosis in column I to their characteristic features in column II and select the correct option using the codes given below.\n(NEET-II 2016)",
-      "question_html": "Match the stages of meiosis in column I to their characteristic features in column II and select the correct option using the codes given below.  <i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>\n<div style=\"display: block; padding: 0.3em 0; text-align: center; \"><img alt=\"\" border=\"0\" data-original-height=\"2756\" data-original-width=\"5108\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWqRsbcgTecfVsWqSGAKEQth6-oCr2wcg7r5q4RxXxXIFltexKsrLcQ0wsf1eG2ItN-A9-Kw2iHxsr2imLGGd4qwvChxLYZ0xvSyOhF6OByCkY11oAZntIa9dld4IMWJltKhD41NFvPT2rfQ4XV2-k2fxE-AIIWpLCy92RFniut69AI5u_2TrVHyXJ1x0/s400/Picture1.png\" width=\"400\"/></div>",
+      "question": "Match the stages of meiosis in column I to their characteristic features in column II and select the correct option using the codes given below.",
+      "question_html": "Match the stages of meiosis in column I to their characteristic features in column II and select the correct option using the codes given below.  <i><span style=\"color: #902165;\"></span></i>\n<div style=\"display: block; padding: 0.3em 0; text-align: center; \"><img alt=\"\" border=\"0\" data-original-height=\"2756\" data-original-width=\"5108\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWqRsbcgTecfVsWqSGAKEQth6-oCr2wcg7r5q4RxXxXIFltexKsrLcQ0wsf1eG2ItN-A9-Kw2iHxsr2imLGGd4qwvChxLYZ0xvSyOhF6OByCkY11oAZntIa9dld4IMWJltKhD41NFvPT2rfQ4XV2-k2fxE-AIIWpLCy92RFniut69AI5u_2TrVHyXJ1x0/s400/Picture1.png\" width=\"400\"/></div>",
       "options": {
         "A": "A-(iii), B-(iv), C-(ii), D-(i)",
         "B": "A-(i), B-(iv), C-(ii), D-(iii)",
@@ -17667,7 +17667,7 @@
       ],
       "source_url": "",
       "id": "NEET-0830",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Cell Cycle and cell division - NEET Topic-wise Q & A | PDF",
@@ -19195,8 +19195,8 @@
       "chapter": "Photosynthesis in Plants",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "The process which makes major difference between C₃ and C₄ plants is\n(NEET-II 2016)",
-      "question_html": "The process which makes major difference between C₃ and C₄ plants is \t<i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>",
+      "question": "The process which makes major difference between C₃ and C₄ plants is",
+      "question_html": "The process which makes major difference between C₃ and C₄ plants is \t<i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "glycolysis",
         "B": "Calvin cycle",
@@ -19208,7 +19208,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-0903",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Photosynthesis in Higher Plants | NEET Topic-wise Q & A | PDF",
@@ -23654,8 +23654,8 @@
       "chapter": "Breathing and Exchange of Gases",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Name the chronic respiratory disorder caused mainly by cigarette smoking.\n(NEET-I 2016)",
-      "question_html": "Name the chronic respiratory disorder caused mainly by cigarette smoking. \t<i><span style=\"color: #902165;\">(NEET-I 2016)</span></i>",
+      "question": "Name the chronic respiratory disorder caused mainly by cigarette smoking.",
+      "question_html": "Name the chronic respiratory disorder caused mainly by cigarette smoking. \t<i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Respiratory acidosis",
         "B": "Respiratory alkalosis",
@@ -23667,7 +23667,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-1114",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Breathing and exchange of gases | NEET Topic-wise Q & A | PDF",
@@ -24248,8 +24248,8 @@
       "chapter": "Body Fluids and Circulation",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body.\n(NEET-II 2016)",
-      "question_html": "Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body. \t<i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>",
+      "question": "Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body.",
+      "question_html": "Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body. \t<i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Erythrocytes",
         "B": "Leucocytes",
@@ -24261,7 +24261,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-1142",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Body fluids and circulation | NEET Topic-wise Q & A | PDF",
@@ -24823,8 +24823,8 @@
       "chapter": "Body Fluids and Circulation",
       "class": "Class 11",
       "type": "MCQ",
-      "question": "In mammals, which blood vessel would normally carry largest amount of urea?\n(NEET-I 2016)",
-      "question_html": "In mammals, which blood vessel would normally carry largest amount of urea? \t<i><span style=\"color: #902165;\">(NEET-I 2016)</span></i>",
+      "question": "In mammals, which blood vessel would normally carry largest amount of urea?",
+      "question_html": "In mammals, which blood vessel would normally carry largest amount of urea? \t<i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Hepatic vein",
         "B": "Hepatic portal vein",
@@ -24836,7 +24836,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-1169",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Body fluids and circulation | NEET Topic-wise Q & A | PDF",
@@ -34293,8 +34293,8 @@
       "chapter": "Human Reproduction",
       "class": "Class 12",
       "type": "MCQ",
-      "question": "Several hormones like hCG, hPL, estrogen, progesterone are produced by\n(NEET-II 2016)",
-      "question_html": "Several hormones like hCG, hPL, estrogen, progesterone are produced by \t <i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>",
+      "question": "Several hormones like hCG, hPL, estrogen, progesterone are produced by",
+      "question_html": "Several hormones like hCG, hPL, estrogen, progesterone are produced by \t <i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "ovary",
         "B": "placenta",
@@ -34306,7 +34306,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-1615",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Human reproduction | NEET Topic-wise Q & A | PDF",
@@ -41114,8 +41114,8 @@
       "chapter": "Evolution",
       "class": "Class 12",
       "type": "MCQ",
-      "question": "Which of the following is the correct sequence of events in the origin of life?\n(NEET-II 2016)\nI.\tFormation of protobionts\nII.\tSynthesis of organic monomers\nIII.\tSynthesis of organic polymers\nIV.\tFormation of DNA-based genetic systems",
-      "question_html": "Which of the following is the correct sequence of events in the origin of life? \t <i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>\n<p> <blockquote>I.\tFormation of protobionts</blockquote>\n<blockquote>II.\tSynthesis of organic monomers </blockquote>\n<blockquote>III.\tSynthesis of organic polymers</blockquote>\n<blockquote>IV.\tFormation of DNA-based genetic systems </blockquote>\n</p>",
+      "question": "Which of the following is the correct sequence of events in the origin of life?I.\tFormation of protobionts\nII.\tSynthesis of organic monomers\nIII.\tSynthesis of organic polymers\nIV.\tFormation of DNA-based genetic systems",
+      "question_html": "Which of the following is the correct sequence of events in the origin of life? \t <i><span style=\"color: #902165;\"></span></i>\n<p> <blockquote>I.\tFormation of protobionts</blockquote>\n<blockquote>II.\tSynthesis of organic monomers </blockquote>\n<blockquote>III.\tSynthesis of organic polymers</blockquote>\n<blockquote>IV.\tFormation of DNA-based genetic systems </blockquote>\n</p>",
       "options": {
         "A": "I, II, III, IV",
         "B": "I, III, II, IV",
@@ -41127,7 +41127,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-1938",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Evolution | NEET Topic-wise Q & A | PDF",
@@ -42623,8 +42623,8 @@
       "chapter": "Human Health and Disease",
       "class": "Class 12",
       "type": "MCQ",
-      "question": "Which of the following sets of diseases is caused by bacteria?\n(NEET-II 2016)",
-      "question_html": "Which of the following sets of diseases is caused by bacteria? \t      <i><span style=\"color: #902165;\">(NEET-II 2016)</span></i>",
+      "question": "Which of the following sets of diseases is caused by bacteria?",
+      "question_html": "Which of the following sets of diseases is caused by bacteria? \t      <i><span style=\"color: #902165;\"></span></i>",
       "options": {
         "A": "Cholera and tetanus",
         "B": "Typhoid and smallpox",
@@ -42636,7 +42636,7 @@
       "image_urls": [],
       "source_url": "",
       "id": "NEET-2009",
-      "previous_neet": ""
+      "previous_neet": "2016"
     },
     {
       "source_post": "Human health and diseases | NEET Topic-wise Q & A | PDF",
@@ -53653,5 +53653,5 @@
     }
   ],
   "notes": "Source-preserved rebuild: question HTML, statements, lists, and question images are retained from original Blogger question blocks; named source posts override chapter metadata.",
-  "previous_neet_questions": 149
+  "previous_neet_questions": 169
 }
